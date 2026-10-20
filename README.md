@@ -7,3 +7,4 @@ Here are the Members of the Python GitHub Team:
 # Maximus Brewer
 # Aubriana Martinez
 # Sol Van Oast
+# Jesus Ojeda Meza
