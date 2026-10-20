@@ -4,4 +4,4 @@
 # Manuel Paniagua
 # Maximus Brewer
 # Aubriana Martinez
-# Sol Van Oast
+# Jesus A. Ojeda Meza
